@@ -1,4 +1,4 @@
-# applicationDiscriminativeTrainingMethodsPerceptronAlgorithmHMMandCRF
+# Application of Discriminative Training Methods with Perceptron Algorithm for HMM and CRF
 Application of Discriminative Training Method with Perceptron Algorithm for Hidden Markov and Conditional Random Field Models
 
 
